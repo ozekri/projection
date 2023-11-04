@@ -1,6 +1,6 @@
-# Projection onto exponential cone (Python implementation)
+# Projection onto exponential cone and its dual (Python implementation)
 
-This repository contains a Python implementation of the projection onto exponential cone. This is the Python version of the Julia implementation of H. Friberg that you can found [there](https://github.com/HFriberg/projection). The method is from his paper [Projection onto the exponential cone:
+This repository contains a Python implementation of the projection onto exponential cone (and its dual). This is the Python version of the Julia implementation of H. Friberg that you can found [there](https://github.com/HFriberg/projection). The method is from his paper [Projection onto the exponential cone:
 a univariate root-finding problem](https://docs.mosek.com/whitepapers/expcone-proj.pdf).
 
 A big thank to H. Friberg because all the credit goes to him. I haven't done much other than re-implementing this in Python syntax, and correcting some approximation errors. I just needed this implementation because I’m not working on Julia. Hoping that it can help someone who found himself with the same need.

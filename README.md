@@ -5,7 +5,9 @@ a univariate root-finding problem](https://docs.mosek.com/whitepapers/expcone-pr
 
 A big thank to H. Friberg because all the credit goes to him. I haven't done much other than re-implementing this in Python syntax, and correcting some approximation errors. I just needed this implementation because I’m not working on Julia. Hoping that it can help someone who found himself with the same need.
 
+<p align="center">
 <img src="https://github.com/ozekri/projection/blob/main/POCS_Exponential_cone_0.gif" width=50% height=50% alt>
+</p>
 
 <em>Gif animation of POCS algorithm between the exponential cone and the plane </em> $z=0$.
 
